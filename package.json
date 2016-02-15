@@ -1,0 +1,16 @@
+{
+  "name": "corn-cob",
+  "version": "1.0.0",
+  "description": "pipe files to friends ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webrtc",
+    "p2p",
+    "nodejs"
+  ],
+  "author": "Jared Fowler (@10000highfives)",
+  "license": "ISC"
+}
